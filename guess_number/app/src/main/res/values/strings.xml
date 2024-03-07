@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">guess_number</string>
+    <string name="guess">guess</string>
+    <string name="reset">RESET</string>
+    <string name="please_enter_a_number">Please enter a number</string>
+    <string name="nice">nice</string>
+</resources>
